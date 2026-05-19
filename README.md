@@ -1,2 +1,11 @@
-# Python-Password-Generator
-A simple Python mini project that generates random passwords using letters, numbers, and symbols. It also checks password strength based on length. Built to practice Python basics like loops, strings, user input, and the random module.
+# Password Generator 🔐
+
+A simple Python project that generates random passwords and checks password strength.
+
+## Features
+- Random password generation
+- Strong/Weak password check
+- Uses letters, numbers, and symbols
+
+## Language
+Python
